@@ -1,4 +1,4 @@
-# Deprecated and Discard
+# Deprecated or Discard
 
 在技术或编程领域，**`Deprecated`** 和 **`Discard`** 是两个常见的术语，主要在功能或代码管理中使用，但它们的含义和使用场景不同：
 
